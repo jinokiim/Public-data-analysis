@@ -10,6 +10,8 @@
 * [02_7일_신규_확진자수_시각화](02_Interactive_Graph.ipynb)
 * [03_3D_Graph](03_3D_Graph.ipynb)
 * [04_지도시각화](04_지도시각화.ipynb)
+
+### 실행 불가시 [뷰어](https://nbviewer.org/github/jinokiim/Public-data-analysis/tree/main/)  접속
   
           
 ---          
